@@ -1,3 +1,5 @@
+// https://github.com/sanjiban12/javaScript/blob/main/assignment.js
+// 1st problem
 function kilometerToMeter(n) {
     var kilometer = Math.abs(n);
     var meter = kilometer *1000;
